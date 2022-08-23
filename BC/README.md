@@ -11,3 +11,4 @@
 | <img width=35/>[![tmp](https://img.shields.io/badge/notebook-m0821a-blue)](https://github.com/jwc22-11/lgdacon/blob/main/BC/notebooks/m0821a.ipynb) | Neural Network | 2.01 | x |
 | <img width=35/>[![tmp](https://img.shields.io/badge/notebook-m0821b-blue)](https://github.com/jwc22-11/lgdacon/blob/main/BC/notebooks/m0821b.ipynb) | Neural Network with weight_loss | 2.0000 | 1.99 |
 | <img width=35/>[![tmp](https://img.shields.io/badge/notebook-m0823a-blue)](https://github.com/jwc22-11/lgdacon/blob/main/BC/notebooks/m0823a.ipynb) | Ensemble(RF,XGBoost,LGBM) | x | **1.93945** |
+| <img width=35/>[![tmp](https://img.shields.io/badge/notebook-m0823b-blue)](https://github.com/jwc22-11/lgdacon/blob/main/BC/notebooks/m0823b.ipynb) | PCA(n=30) | 1.9806 | 2.06 |
