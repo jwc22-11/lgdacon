@@ -7,4 +7,4 @@
 | PolynomialFeatures2 | LGBM + x_grouping + feature 개수 증가 | 1.9560 | x |
 | PolynomialFeatures3 | Ensemble(RF,XGBoost,LGBM) + feature 개수 증가 | x | **1.9389** |
 
-* scaled feautures 사용 시, 성능 저하
+* scaled features 사용 시, 성능 저하
